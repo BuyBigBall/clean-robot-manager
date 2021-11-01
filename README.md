@@ -1,4 +1,7 @@
-
+# Description
+ This project contains with Laravel and vuejs
+ This task was created for hospital robot management during COVID-19.
+ 
 # Installation
 
 Given below are the steps you need to follow to install the vuexy-laravel-full-version / vuexy-laravel-starter-kit on your system:
